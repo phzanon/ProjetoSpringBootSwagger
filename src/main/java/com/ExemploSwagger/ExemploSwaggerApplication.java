@@ -1,4 +1,4 @@
-package com.ExemploSwagget.ExemploSwagger;
+package com.ExemploSwagger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
